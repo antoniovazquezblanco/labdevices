@@ -19,7 +19,7 @@ The Agilent 54622D is a 2+16 Channel, 100 MHz Mixed-Signal Oscilloscope. This pr
 
 ## Gallery
 
-![54622D]({{ page.url | append: 'img/54622D.jpg' | absolute_url }})
+![54622D]({{ page.url | append: 'img/54622D.jpg' | relative_url }})
 
 
 ## Documentation
