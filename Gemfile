@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "github-pages"
 gem "just-the-docs"
 gem "wdm", :platforms => [:mingw, :x64_mingw, :mswin]
