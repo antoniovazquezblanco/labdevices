@@ -1,6 +1,9 @@
 title: Lab Devices
+description: One stop site for device manuals, repair guides, modifications and more!
 
 theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+
 color_scheme: dark
 
 # exclude:
