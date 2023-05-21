@@ -3,7 +3,8 @@ description: One stop site for device manuals, repair guides, modifications and 
 
 theme: just-the-docs
 
-url: http://antoniovazquezblanco.github.io/labdevices
+url: http://antoniovazquezblanco.github.io
+baseurl: /labdevices
 
 color_scheme: dark
 
