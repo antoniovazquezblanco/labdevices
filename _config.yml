@@ -6,3 +6,6 @@ theme: just-the-docs
 url: http://antoniovazquezblanco.github.io/labdevices
 
 color_scheme: dark
+
+exclude:
+  - README.md
