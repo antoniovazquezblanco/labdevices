@@ -68,6 +68,14 @@ Threads referencing the mod:
 | Python script         | <https://github.com/kiwih/agilent-rs232>                                      |
 
 
+## Easter eggs
+
+### Rock on
+
+Someone has taken the time to include an asteroids game in the scope: 
+https://www.youtube.com/watch?v=o43GDjGo7fI
+
+
 ## External resources
 
 * <https://www.keysight.com/us/en/support/54622D/portable-mso.html>
