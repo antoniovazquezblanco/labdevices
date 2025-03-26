@@ -73,7 +73,7 @@ Threads referencing the mod:
 ### Rock on
 
 Someone has taken the time to include an asteroids game in the scope: 
-https://www.youtube.com/watch?v=o43GDjGo7fI
+<https://www.youtube.com/watch?v=o43GDjGo7fI>
 
 
 ## External resources
